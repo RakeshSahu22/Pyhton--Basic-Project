@@ -28,9 +28,4 @@ The primary goals of this project are:
 * Matplotlib & Seaborn
 * Jupyter Notebook
 
-### 📈 Key Insights
 
-* Best and worst performing regions/products.
-* Monthly/seasonal trends in sales.
-* Outliers and missing values handled during data cleaning.
-* Visualization of top customers/products/cities.
